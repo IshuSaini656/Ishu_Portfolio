@@ -1,16 +1,102 @@
-# React + Vite
+# 💼 Ishu Saini Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, single-page portfolio built with React and Tailwind CSS to showcase my projects, skills, and experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐https://ishu-portfolio-five.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design (Mobile, Tablet & Desktop)
+- Modern dark UI
+- Smooth scrolling navigation
+- Project showcase with image slider
+- Contact form with EmailJS
+- Google reCAPTCHA protection
+- Resume download
+- Social media links
+- Error Boundary
+- Lazy-loaded project images
+- SEO optimized
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+### Libraries
+
+- React Scroll
+- EmailJS
+- Google reCAPTCHA
+- Lucide React
+- Sonner
+
+---
+
+## 📂 Folder Structure
+
+```text
+src/
+ ├── assets/
+ ├── components/
+ ├── data/
+ ├── utils/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+
+cd portfolio
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+## 🔒 Environment Variables
+
+Create a `.env` file.
+
+```env
+VITE_EMAIL_SERVICE_ID=
+VITE_EMAIL_TEMPLATE_ID=
+VITE_EMAIL_PUBLIC_KEY=
+VITE_RECAPTCHA_SITE_KEY=
+```
+
+---
+
+## 📬 Contact
+
+- Email: ishuwork8394@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ishu-saini-068277372?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
