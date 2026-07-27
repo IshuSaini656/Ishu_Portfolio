@@ -58,7 +58,7 @@ src/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/IshuSaini656/Ishu_Portfolio.git
 
 cd portfolio
 
