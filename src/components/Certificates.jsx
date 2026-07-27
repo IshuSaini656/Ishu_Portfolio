@@ -1,4 +1,4 @@
-import certificateImg from "../assets/certificates/full_stack.jpg";
+import certificateImg from "../assets/certificates/Full_stack.jpg";
 
 const certificates = [
   {

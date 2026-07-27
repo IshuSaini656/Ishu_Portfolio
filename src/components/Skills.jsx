@@ -12,7 +12,7 @@ import MongodbIcon from "../assets/skills_Icon/mongodb-icon.svg"
 import MongooseIcon from "../assets/skills_Icon/mongoose-icon.svg"
 import CloudinaryIcon from "../assets/skills_Icon/cloudinary-icon.svg"
 import C_Icon from "../assets/skills_Icon/c-icon.svg"
-import CPlusPlusIcon from "../assets/skills_Icon/Cplusplus-icon.svg";
+import CPlusPlusIcon from "../assets/skills_Icon/cplusplus-icon.svg";
 import GitIcon from "../assets/skills_Icon/git-icon.svg"
 import GithubIcon from "../assets/skills_Icon/github-icon.svg"
 import PostmanIcon from "../assets/skills_Icon/postman-icon.svg"
